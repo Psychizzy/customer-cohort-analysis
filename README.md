@@ -88,19 +88,18 @@ Using real-world e-commerce transaction data, we performed a **cohort analysis**
 ## Visuals & Deliverables
 
 - ## 📊 Retention Heatmap
-![Retention Heatmap](retention_heatmap.png) 
+![Retention Heatmap](Visual%20charts/retention_heatmap.png)
 
-- ## Revenue & ARPU Bar Charts
-  ![ARPU Chart](arpu_by_cohort.png)
-  
-  ![total revenue Chart](total_revenue_by_cohort.png)
-  
-- ## RFM Scatter Plot (Recency vs Frequency, bubble = Spend)
-   ![RFM Scatter plot](rfm_scatter_plot.png)
-  
-- ## Segment Distribution Charts (Bar + Pie)
-  
--  ![distribution pie chart](rfm_segment_distribution_pie.png)
+## Revenue & ARPU Bar Charts
+![ARPU Chart](Visual%20charts/arpu_by_cohort.png)  
+![Total Revenue Chart](Visual%20charts/total_revenue_by_cohort.png)
+
+## RFM Scatter Plot (Recency vs Frequency, bubble = Spend)
+![RFM Scatter Plot](Visual%20charts/rfm_scatter_plot.png)
+
+## Segment Distribution Charts (Pie)
+![RFM Segment Pie](Visual%20charts/rfm_segment_distribution_pie.png)
+
   
 - Export-ready PNG files
 
